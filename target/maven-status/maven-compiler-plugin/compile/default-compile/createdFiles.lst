@@ -1,0 +1,6 @@
+com/universidad/productosservice/ProductosServiceApplication.class
+com/universidad/productosservice/controller/ProductoController$ProductoDTO.class
+com/universidad/productosservice/service/ProductoService.class
+com/universidad/productosservice/repository/ProductoRepository.class
+com/universidad/productosservice/controller/ProductoController.class
+com/universidad/productosservice/domain/Producto.class
